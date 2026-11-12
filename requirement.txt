@@ -1,7 +1,8 @@
+
+streamlit
 torch
 torchvision
-streamlit
-scikit-learn
 pillow
-matplotlib
 numpy
+scikit-learn
+matplotlib
